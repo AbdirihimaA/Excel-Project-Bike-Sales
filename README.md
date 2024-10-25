@@ -83,4 +83,4 @@ This project provides a detailed analysis of bike purchasing behaviour using cus
 
 --- 
 
-This README provides a clear structure and guides the user through the purpose of the project, the data, and how to use the dashboard effectively. Let me know if you'd like to adjust any part of it!
+
