@@ -1,10 +1,5 @@
 # Excel-Project-Bike-Sales
 
-Here’s a draft for the README file, including an introduction to the project, an explanation of the data, the dashboard, and the charts, as well as the slicers:
-
----
-
-# Bike Sales Data Analysis and Dashboard
 
 ## Introduction
 
